@@ -7,7 +7,7 @@ In the context of my Bachelor's thesis I implemented in python a Face Recognitio
 * pandas
 * dlib
 * matplotlib
-and some more.
+and  more.
 
 From the networks that have been used, InceptionV3 presented the best results achieving 97.22% accuracy.
 
